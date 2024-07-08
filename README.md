@@ -14,6 +14,7 @@ H! I'm Omar, a seasoned Business Analyst with a strong foundation in business in
 
 - 🔭 I’m currently working on My new projects 
 
+<img src="https://github.com/OmarMacPherson/OmarMacPherson/blob/main/giphy.webp" width="256" />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OmarMacPherson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omaralan/)  
 
