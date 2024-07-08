@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Omar Mac Pherson
 
-H! I'm Omar, a seasoned Business Analyst with a strong foundation in business information systems, transitioning into the field of Data Analytics. With over 8 years of experience at leading corporations like Citibank and Scotiabank, 
+Hi! I'm Omar, a Business Analyst from Adelaide, now diving deep into the world of Data Analytics. With a Master's in Business Information Systems, I've developed a keen interest in unearthing insights from data. I'm proficient with Python, SQL, Excel, Power BI, and Tableau. My projects, which you'll find here, demonstrate my ability to transform complex datasets into clear, actionable insights. When I'm not analyzing data, I enjoy contributing to collaborative projects and continuously learning new skills.
 
 ### Skills: 
 
