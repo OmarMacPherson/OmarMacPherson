@@ -1,6 +1,6 @@
 ![Data Analyst Professional](https://miro.medium.com/v2/resize:fit:720/format:webp/1*itnu08my930ujZGg_7HeLw.gif)
 
-### Hi there 👋, Omar Mac Pherson
+### Hi there 👋, Enthusiastic Data Analyst here!
 
 Hi! I'm Omar, a Business Analyst from Adelaide, now diving deep into the world of Data Analytics. With a Master's in Business Information Systems, I've developed a keen interest in unearthing insights from data. I'm proficient with Python, SQL, Excel, Power BI, and Tableau. My projects, which you'll find here, demonstrate my ability to transform complex datasets into clear, actionable insights. When I'm not analyzing data, I enjoy contributing to collaborative projects and continuously learning new skills.
 
